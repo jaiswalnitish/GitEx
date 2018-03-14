@@ -15,6 +15,7 @@ public class MainActivity extends AppCompatActivity {
         int i=0;
         int ii =1;
         int iii =2;
+        String test = "Testing1";
 
     }
 }
