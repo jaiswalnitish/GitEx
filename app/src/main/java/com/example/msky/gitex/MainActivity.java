@@ -14,7 +14,7 @@ public class MainActivity extends AppCompatActivity {
     private void get(){
         int ii =0;
         int iii =2;
-        String test = "Testing";
+        String test = "Testing1";
 
     }
 }
