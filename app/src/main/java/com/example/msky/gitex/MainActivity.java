@@ -12,6 +12,7 @@ public class MainActivity extends AppCompatActivity {
     }
 
     private void get(){
+        String a = "aaaaa";
         int ii =0;
         int iii =2;
         int j= ii+iii;
