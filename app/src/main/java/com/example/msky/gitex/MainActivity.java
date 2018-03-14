@@ -14,6 +14,7 @@ public class MainActivity extends AppCompatActivity {
     private void get(){
         int ii =0;
         int iii =2;
+        int j= ii+iii;
         String test = "Testing1";
 
     }
